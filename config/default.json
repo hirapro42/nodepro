@@ -1,0 +1,4 @@
+{
+    "mongooseURL":"mongodb+srv://mame123:mame123@cluster0.y9beeva.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret":"mySecret"
+}
